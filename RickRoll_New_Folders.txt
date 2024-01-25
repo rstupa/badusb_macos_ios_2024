@@ -1,0 +1,58 @@
+REM Author: rmay1er
+REM Description: RickRoll script that making New Folders on desktop named like lyrcs of song.
+REM Version: 1.0
+REM Category: MacOS
+
+
+ID 05ac:021e Apple:Keyboard
+DELAY 500
+ESC
+DELAY 500
+ESC
+DELAY 500
+GUI M
+DELAY 1000
+ALT-GUI H
+DELAY 1000
+GUI SPACE
+DELAY 1000
+CTRL SPACE
+DELAY 1000
+STRING Finder
+DELAY 1000
+ENTER
+DELAY 1000
+GUI M
+DELAY 1000
+GUI-SHIFT N
+DELAY 500
+STRING Never gonna give you up
+DELAY 500
+GUI-SHIFT N
+DELAY 500
+STRING never gonna let you down
+DELAY 500
+GUI-SHIFT N
+DELAY 500
+STRING Never gonna run around 
+DELAY 500
+GUI-SHIFT N
+DELAY 500
+STRING and desert you
+DELAY 500
+GUI-SHIFT N
+DELAY 500
+STRING Never gonna make you cry
+DELAY 500
+GUI-SHIFT N
+DELAY 500
+STRING never gonna say goodbye
+DELAY 500
+GUI-SHIFT N
+DELAY 500
+STRING Never gonna tell a lie 
+DELAY 500
+GUI-SHIFT N
+DELAY 1000
+STRING and hurt you
+ENTER
